@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Main {
+public class Task1 {
     // Задача 1.4. Распространение новости
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
